@@ -1,5 +1,13 @@
 ### Hi there 👋
+- 🍕 I'm a College Senior, 
+- 🌱 I’m currently learning Deep Learning 
+- 🍜 I'm currently focus on competing on kaggle,
+- (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ I'm looking for opportunities to pursuit a carrer in Machine learning.
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/discussion/light)
 <!--
 **BaoLocPham/BaoLocPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
