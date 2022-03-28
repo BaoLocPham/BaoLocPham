@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning Deep Learning 
 - 🍜 I'm currently focus on competing on kaggle,
 - (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ I'm looking for opportunities to pursuit a carrer in Machine learning.
-
+<!-- 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/discussion)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/discussion) -->
 <!--
 **BaoLocPham/BaoLocPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
