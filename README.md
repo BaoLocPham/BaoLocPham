@@ -1,10 +1,11 @@
 ### Hi there 👋
-- 🍕 I'm a College Senior, 
+<!-- - 🍕 I'm a College Senior,  -->
 - 🌱 I’m currently learning Deep Learning 
 - 🍜 I'm currently focus on competing on kaggle,
 - (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ I'm looking for opportunities to pursuit a carrer in Machine learning.
-<!-- 
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/competition)
+<!-- 
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/discussion) -->
