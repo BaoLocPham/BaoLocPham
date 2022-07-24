@@ -1,6 +1,6 @@
 ### Hi there 👋
-<!-- - 🍕 I'm a College Senior,  -->
-- 🌱 I’m currently learning Deep Learning 
+<!-- - 🍕 I'm a kaggler  -->
+<!-- - 🌱 I’m currently learning Deep Learning -->
 - 🍜 I'm currently focus on competing on kaggle,
 - (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ I'm looking for opportunities to pursuit a carrer in Machine learning.
 
