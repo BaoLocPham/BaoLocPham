@@ -1,8 +1,9 @@
 ### Hi there 👋
 <!-- - 🍕 I'm a kaggler  -->
 <!-- - 🌱 I’m currently learning Deep Learning -->
-- 🍜 I'm currently focus on competing on kaggle,
-- (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ I'm looking for opportunities to pursuit a carrer in Machine learning.
+- I'm a part-time kaggler
+- Marathon and violin are my hobbies beside coding
+- (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧.
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/competition)
 <!-- 
