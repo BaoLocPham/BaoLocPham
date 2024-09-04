@@ -1,26 +1,12 @@
-### Hi there 👋
-<!-- - 🍕 I'm a kaggler  -->
-<!-- - 🌱 I’m currently learning Deep Learning -->
-- I'm a part-time kaggler
-- Marathon and violin are my hobbies beside coding
-- (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧.
+# Hi there! 👋  
+I'm a **part-time Kaggler** and passionate about data science.  
+Outside of coding, I enjoy running marathons 🏃‍♂️ and playing the violin 🎻.  
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/competition)
-<!-- 
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/locbaop/discussion) -->
-<!--
-**BaoLocPham/BaoLocPham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-Here are some ideas to get you started:
+## My Research Interests:
+- LLMs: Optimizing serving, quantization, RAG and others cool stuff.
+- Embedding model: Text embedding for better retrieval system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
