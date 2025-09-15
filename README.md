@@ -1,4 +1,7 @@
 # Hi there! 👋  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BaoLocPham&label=Profile%20views&color=0e75b6&style=flat" alt="BaoLocPham" /> </p>
+
 I'm a **part-time Kaggler** and passionate about data science.  
 Outside of coding, I enjoy running marathons 🏃‍♂️ and playing the violin 🎻.  
 
